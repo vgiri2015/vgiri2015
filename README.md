@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hey, I'm Giri</h1>
 
 <p align="center">
-  <a href="https://tomosu.ai"><img src="https://img.shields.io/badge/Building-Tomosu.ai-6C47FF?style=flat-square" /></a>
   <a href="https://hadoopist.wordpress.com"><img src="https://img.shields.io/badge/Blog-hadoopist-21759B?style=flat-square&logo=wordpress&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=vgiri2015&style=flat-square&color=blueviolet" />
 </p>
@@ -10,9 +9,11 @@
 
 ## 🧬 Who I am
 
-Data and AI engineer based in the **San Francisco Bay Area**. I spent years deep in the **Spark / Databricks** world, from Spark 1.6 shading headaches to lakehouse-scale pipelines. These days I'm building **[Tomosu](https://tomosu.ai)**: tooling that scores how reliable a codebase really is and helps AI coding agents ship production-ready code instead of demo-ready code.
+**Senior Director, Data & AI Solutions Engineering at Databricks**, based in the San Francisco Bay Area.
 
-I care about systems that stay up, agents that tell you when they're unsure, and dashboards that answer the question you actually asked.
+I build technical organizations from the ground up. As a founding member of Databricks' Customer Success org, I designed and scaled Field Pre/Post Sales, Professional Services, and Support across the Americas, India, Costa Rica, and Brazil, tailoring each to its market.
+
+Today I lead the Americas Technical Solutions teams, drawing on deep roots in **Spark, Machine Learning, and cloud** to drive GenAI initiatives, and aligning R&D, Field Engineering, and Sales around what customers actually need.
 
 > "Hope is not a strategy."
 >
